@@ -1,2 +1,5 @@
 # hello-world2
-HW2 for IB
+
+Hi team !
+
+Great working with you all ! Keep up the good work and may the code be with you !
